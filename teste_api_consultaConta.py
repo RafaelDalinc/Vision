@@ -18,7 +18,7 @@ else:
 
 
 def consulta_conta(cartao):
-    """Simples tentativa de consultar conta via API da PIC-PAY"""
+    """Simples tentativa de consultar conta via API"""
     
     token = 'inibido por segurança'
 
