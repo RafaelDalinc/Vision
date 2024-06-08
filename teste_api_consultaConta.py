@@ -20,11 +20,11 @@ else:
 def consulta_conta(cartao):
     """Simples tentativa de consultar conta via API da PIC-PAY"""
     
-    token = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJJRF9BUExJQ0FDQU8iOiI0MDUwIiwiQ0RfT1JHIjoiMjExIiwiaXNzIjoiaHR0cDovL2JhbS5mbmlzLmNvbS5iciIsImlhdCI6MTUyMTQ4MDA4MX0.toR2fV-uMoJKJMbBjqPpQ1mwCFStO4hDDrAxHgczl5I'
+    token = 'inibido por segurança'
 
-    endpoint = 'https://picpayintegration-homolog.fnis.com.br'
+    endpoint = 'inibido por segurança'
 
-    servico = '/PICPAY/VPService/ConsultaInformacoesCartao/V1'
+    servico = 'inibido por segurança'
 
     headers = {
     'Content-Type': 'application/json',
